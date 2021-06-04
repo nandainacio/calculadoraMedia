@@ -1,0 +1,10 @@
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe.config
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.csprojAssemblyReference.cache
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.Form1.resources
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.Properties.Resources.resources
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.csproj.GenerateResource.cache
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.exe
+C:\Users\fp_in\source\repos\CalculoMedia\CalculoMedia\CalculoMedia\obj\Debug\CalculoMedia.pdb
